@@ -1,21 +1,21 @@
-# Python-Projects </b>
+# Python-Projects
 
-Age-Calculator-GUI </b
+Age-Calculator-GUI 
 
-Attachment_Downloader </b
+Attachment_Downloader 
 
-Calculate_age </b>
+Calculate_age 
 
-Calendar GUI </b>
+Calendar GUI 
 
-Covid-19-Update-Bot </b>
+Covid-19-Update-Bot 
 
-Create AudioBook in Python </b>
+Create AudioBook in Python 
 
-Facebook-DP-Downloader </b
+Facebook-DP-Downloader 
 
-GitHub Repo Automation </b
+GitHub Repo Automation 
 
-Live-Cricket-Score </b>
+Live-Cricket-Score
 
-Text_to_speech </b>
+Text_to_speech 
